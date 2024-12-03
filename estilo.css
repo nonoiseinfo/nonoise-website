@@ -1,0 +1,52 @@
+
+* {
+	padding: 0;
+	font-family: courier;
+	text-decoration: none;
+	text-align: center;
+}
+.title {
+	font-size: 50px;
+	margin: 12%;
+	background-color: black;
+	color:white;
+	padding: 40px;
+}
+body {
+	background-color: #00f925;
+	color: black;
+	background-image:url(https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fnewtoncbraga.com.mx%2Fimages%2Fsampledata%2Fart%2Fart0028_0004.jpg&f=1&nofb=1&ipt=5c7093fc1a086347bdc3d41668b79af3ce4890320d47c1f1ed9554cf0639aacb&ipo=images);
+
+}
+nav ul {
+	width: 80%;
+	font-size: 25px;
+	font-weight: bold;
+	margin: auto;
+	border-radius: 10px;
+	list-style-type: none;
+	background-color: #00f925;
+}
+nav li {
+	display: inline-flex;
+}
+nav a {
+	padding: 20px;
+	width: 100%;
+}
+nav ul a:hover {
+	background-color:#f1f900;
+}
+.piedepagina {
+	background-color:#f1f900;
+	margin-top: 10px;
+	padding: 30px;
+	font-weight: bold;
+}
+.content {
+	margin-top: 20px;
+}
+h2 {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
